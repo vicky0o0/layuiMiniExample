@@ -1,0 +1,2 @@
+# layuiMiniExample
+这个项目是用来写layui的小案例。一方面让自己更加了解layui，另一方面也希望他人能知道layui。
